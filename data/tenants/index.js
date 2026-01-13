@@ -73,7 +73,7 @@ export const tenantProfiles = [
       label: "Machine Agent",
       agentRepo: {
         provider: "github",
-        baseRawUrl: "https://raw.githubusercontent.com/pdhoward/documentation/main/AGENT_MACHINE.md"
+        baseRawUrl: "https://raw.githubusercontent.com/pdhoward/documentation/main/voice/AGENT_MACHINE.md"
       },      
     }],
     limits: {
@@ -171,7 +171,7 @@ export const tenantProfiles = [
        label: "Private Chef",
        agentRepo: {
           provider: "github",
-          baseRawUrl: "https://raw.githubusercontent.com/pdhoward/documentation/refs/heads/main/AGENT_CYPRESSRESORTS_CHEF.md"
+          baseRawUrl: "https://github.com/pdhoward/documentation/blob/main/voice/AGENT_CYPRESSRESORTS_CHEF.md"
         },
       },
       {
@@ -179,7 +179,7 @@ export const tenantProfiles = [
         label: "Cypress Concierge V2",
         agentRepo: {
             provider: "github",
-            baseRawUrl: "https://raw.githubusercontent.com/pdhoward/documentation/main/AGENT_CYPRESSRESORT_CONCIERGE.md"
+            baseRawUrl: "https://raw.githubusercontent.com/pdhoward/documentation/main/voice/AGENT_CYPRESSRESORT_CONCIERGE.md"
           },
       }
     ],
@@ -304,7 +304,7 @@ export const tenantProfiles = [
       label: "Product Sales",
       agentRepo: {
         provider: "github",
-        baseRawUrl: "https://raw.githubusercontent.com/pdhoward/documentation/main/AGENT_DIYWAREHOUSE_PRODUCTSALES.md"
+        baseRawUrl: "https://raw.githubusercontent.com/pdhoward/documentation/main/voice/AGENT_DIYWAREHOUSE_PRODUCTSALES.md"
       },      
     }],
     limits: {
